@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 
+  cout<<"5. Ahmad Fauzan"<<endl;
   cout<<"14. Farhan Ma'arif Lubis";
-
 }
