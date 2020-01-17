@@ -3,6 +3,9 @@ using namespace std;
 
 int main(){
 
-cout<<"19. Muhamad Yunus"<<endl;
 
+  cout<<"5. Ahmad Fauzan"<<endl;
+  cout<<"14. Farhan Ma'arif Lubis";
+  cout<<"18. Muhamad Ismail";
+  cout<<"19. Muhamad Yunus"<<endl;
 }
