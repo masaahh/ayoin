@@ -3,18 +3,6 @@ using namespace std;
 
 int main(){
 
-  cout<<"Hello World";
-  cout<<"iyaa halo kamu";
-  cout<<"H A"<<endl;
-
-  cout<<"Hello World"<<endl;
-
-  cout<<"ngopi slurr"<<endl;
-  cout<<"iyain aja";
-  cout<<"iya";
-  
-  cout<<"Daleeemmmm"<<endl;
-  cout<<"Daleeemmmm";
-  cout<<"PeTIK Bismillah";
   cout<<"5. Ahmad Fauzan"<<endl;
+  cout<<"14. Farhan Ma'arif Lubis";
 }
